@@ -3,7 +3,6 @@ http://hphosts.gt500.org/hosts.txt
 http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext 
 http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0 
 http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&startdate%5Bday%5D=&startdate%5Bmonth%5D=&startdate%5Byear%5D=&useip=0.0.0.0 
-http://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml
 http://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml 
 https://adaway.org/hosts.txt 
 https://adblock.mahakala.is/ 
@@ -69,7 +68,6 @@ https://v.firebog.net/hosts/SBSpotify.txt
 https://v.firebog.net/hosts/SBTyzbit.txt 
 https://v.firebog.net/hosts/SBUnchecky.txt 
 https://v.firebog.net/hosts/Shalla-mal.txt
-https://v.firebog.net/hosts/Shalla-mal.txt 
 https://v.firebog.net/hosts/static/SamsungSmart.txt 
 https://v.firebog.net/hosts/static/w3kbl.txt 
 https://www.dshield.org/feeds/suspiciousdomains_Low.txt 
@@ -81,13 +79,6 @@ http://winhelp2002.mvps.org/hosts.txt
 http://www.joewein.net/dl/bl/dom-bl-base.txt 
 http://www.sa-blacklist.stearns.org/sa-blacklist/sa-blacklist.current 
 #neu
-https://v.firebog.net/hosts/AdguardDNS.txt
-https://v.firebog.net/hosts/Airelle-hrsk.txt
-https://v.firebog.net/hosts/BillStearns.txt
-https://v.firebog.net/hosts/Easylist.txt7
-https://v.firebog.net/hosts/Easyprivacy.txt
-https://v.firebog.net/hosts/Kowabit.txt
-https://v.firebog.net/hosts/static/SamsungSmart.txt
 
 
 
