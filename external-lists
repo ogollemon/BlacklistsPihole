@@ -120,7 +120,8 @@ https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
 http://winhelp2002.mvps.org/hosts.txt
 http://www.sa-blacklist.stearns.org/sa-blacklist/sa-blacklist.current
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CombinedBlacklists/CombinedBlackLists.txt
-
+https://dshield.org/feeds/suspiciousdomains_Medium.txt
+https://dshield.org/feeds/suspiciousdomains_High.txt
 
 
 #sub lists
