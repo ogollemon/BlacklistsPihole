@@ -122,6 +122,7 @@ http://www.sa-blacklist.stearns.org/sa-blacklist/sa-blacklist.current
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CombinedBlacklists/CombinedBlackLists.txt
 https://dshield.org/feeds/suspiciousdomains_Medium.txt
 https://dshield.org/feeds/suspiciousdomains_High.txt
+https://raw.githubusercontent.com/WindowsLies/BlockWindows/master/hostslist
 
 
 #sub lists
