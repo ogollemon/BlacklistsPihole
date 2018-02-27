@@ -125,6 +125,8 @@ https://dshield.org/feeds/suspiciousdomains_High.txt
 https://raw.githubusercontent.com/WindowsLies/BlockWindows/master/hostslist
 https://www.threatcrowd.org/feeds/domains.txt
 https://raw.githubusercontent.com/Cauchon/NSABlocklist-pi-hole-edition/master/HOSTS%20(excluding%20most%20GOV%20URLs)
+https://raw.githubusercontent.com/Ttech/easymasq/master/adblock.list
+https://raw.githubusercontent.com/xlimit91/xlimit91-block-list/master/List.txt
 
 #sub lists
 #https://www.malwarepatrol.net/non-commercial/
