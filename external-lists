@@ -127,6 +127,7 @@ https://www.threatcrowd.org/feeds/domains.txt
 https://raw.githubusercontent.com/Cauchon/NSABlocklist-pi-hole-edition/master/HOSTS%20(excluding%20most%20GOV%20URLs)
 https://raw.githubusercontent.com/Ttech/easymasq/master/adblock.list
 https://raw.githubusercontent.com/xlimit91/xlimit91-block-list/master/List.txt
+https://raw.githubusercontent.com/smokingwheels/smokingwheels.github.io/master/yacy/yacydump4.txt
 
 #sub lists
 #https://www.malwarepatrol.net/non-commercial/
