@@ -128,6 +128,11 @@ https://raw.githubusercontent.com/Cauchon/NSABlocklist-pi-hole-edition/master/HO
 https://raw.githubusercontent.com/Ttech/easymasq/master/adblock.list
 https://raw.githubusercontent.com/xlimit91/xlimit91-block-list/master/List.txt
 https://raw.githubusercontent.com/smokingwheels/smokingwheels.github.io/master/yacy/yacydump4.txt
+https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/adaway.txt
+https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt	
+https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt	
+https://raw.githubusercontent.com/aggsol/blocklists/master/hosts-hardcoded	
+https://raw.githubusercontent.com/aggsol/blocklists/master/hosts-complete
 
 #sub lists
 #https://www.malwarepatrol.net/non-commercial/
