@@ -142,7 +142,7 @@ https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/dan-po
 https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/mitchell-krogs-badd-boyz-hosts.txt
 https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/nocoin.txt
 https://raw.githubusercontent.com/k0nsl/unbound-blocklist/master/blocks.conf
-
+https://github.com/AdguardTeam/AdguardFilters/blob/master/AnnoyancesFilter/sections/annoyances.txt
 
 #sub lists
 #https://www.malwarepatrol.net/non-commercial/
