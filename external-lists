@@ -134,7 +134,6 @@ https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt	
 https://raw.githubusercontent.com/aggsol/blocklists/master/hosts-hardcoded	
 https://raw.githubusercontent.com/aggsol/blocklists/master/hosts-complete
-#new
 https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/add-2o7net.txt
 https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/add-risk.txt
 https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/add-spam.txt
@@ -144,6 +143,18 @@ https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/mitche
 https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/nocoin.txt
 https://raw.githubusercontent.com/k0nsl/unbound-blocklist/master/blocks.conf
 https://github.com/AdguardTeam/AdguardFilters/blob/master/AnnoyancesFilter/sections/annoyances.txt
+#new
+https://hosts-file.net/grm.txt
+https://reddestdream.github.io/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/KADhosts/hosts
+https://v.firebog.net/hosts/static/w3kbl.txt
+http://sysctl.org/cameleon/hosts
+https://www.dshield.org/feeds/suspiciousdomains_Low.txt
+https://www.joewein.net/dl/bl/dom-bl-base.txt
+https://hostsfile.org/Downloads/hosts.txt
+https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt
+
+
 
 #sub lists
 #https://www.malwarepatrol.net/non-commercial/
