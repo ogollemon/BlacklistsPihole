@@ -191,6 +191,12 @@ https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
 https://v.firebog.net/hosts/Shalla-mal.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts
 https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
+https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
+https://mirror1.malwaredomains.com/files/justdomains
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+
 
 #sub lists
 #https://www.malwarepatrol.net/non-commercial/
