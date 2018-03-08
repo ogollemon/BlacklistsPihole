@@ -175,10 +175,26 @@ https://raw.githubusercontent.com/CHEF-KOCH/WebRTC-tracking/master/WebRTC.txt
 https://raw.githubusercontent.com/CHEF-KOCH/Audio-fingerprint-pages/master/AudioFp.txt
 https://raw.githubusercontent.com/CHEF-KOCH/Canvas-fingerprinting-pages/master/Canvas.txt
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
+https://v.firebog.net/hosts/Airelle-hrsk.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
+https://mirror1.malwaredomains.com/files/justdomains
+https://hosts-file.net/exp.txt
+https://hosts-file.net/emd.txt
+https://hosts-file.net/psh.txt
+https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt
+https://www.malwaredomainlist.com/hostslist/hosts.txt
+https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
+https://v.firebog.net/hosts/Prigent-Malware.txt
+https://v.firebog.net/hosts/Prigent-Phishing.txt
+https://raw.githubusercontent.com/quidsup/notrack/master/malicious-sites.txt
+https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
+https://v.firebog.net/hosts/Shalla-mal.txt
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts
+https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
 
 #sub lists
 #https://www.malwarepatrol.net/non-commercial/
-#https://wally3k.github.io/
+#https://wally3k.github.io/  (done)
 #https://github.com/deathbybandaid/pihole-whitelists
 #https://github.com/collinbarrett/FilterLists
 #https://www.iblocklist.com/lists?fileformat=hosts&archiveformat=
