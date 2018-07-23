@@ -208,7 +208,8 @@ http://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml
 #https://github.com/notracking/hosts-blocklists
 #https://github.com/anudeepND/youtubeadsblacklist
 #https://github.com/articrevised/HOSTS-File-List
-
+#https://firebog.net
+#
 #https://filterlists.com/
 #https://github.com/deathbybandaid/piholeparser
 #https://github.com/triw0lf/twitterhonies
@@ -219,3 +220,5 @@ http://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml
 #https://github.com/LV-Crew/HostsManager
 #https://github.com/austinheap/sophos-xg-block-lists
 #https://github.com/pierky/blocklistsaggregator
+#
+#https://filterlists.com
